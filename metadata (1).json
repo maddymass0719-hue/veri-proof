@@ -1,0 +1,5 @@
+{
+  "name": "VeriProof",
+  "description": "A professional digital proof verification platform that uses cryptographic SHA-256 hashing to verify file integrity and authenticity without storing actual files.",
+  "requestFramePermissions": []
+}
